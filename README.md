@@ -88,7 +88,7 @@ To get a local copy up and running, follow these simple steps:
 ### Installation
 
 1. Clone the repo
-   git clone https://github.com/codewithpk/ScanKaro.git
+   git clone https://github.com/codewith-pk/ScanKaro.git
  
 2. Open the project in Android Studio.
 
@@ -122,4 +122,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Developed and maintained by [codewithpk.com](https://codewithpk.com)
 
-Project Link: [https://github.com/codewithpk/ScanKaro](https://github.com/codewith-pk/ScanKaro)
+Project Link: [https://github.com/codewith-pk/ScanKaro](https://github.com/codewith-pk/ScanKaro)
