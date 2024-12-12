@@ -30,6 +30,7 @@ class BiometricPromptHelper(
         )
     }
 
+    // biometric dialog
     fun showBiometricPrompt() {
         val promptInfo = BiometricPrompt.PromptInfo.Builder()
             .setTitle("Biometric Authentication")
